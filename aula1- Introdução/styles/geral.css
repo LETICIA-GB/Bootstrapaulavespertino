@@ -6,7 +6,7 @@
 :root{
     --laranja: #f88f05;
     --preto: #070400;
-    --azul: #f805d8;
+    --rosa: #f805bb;
     --fonteprincipal: trebuchet
 }
 
@@ -17,6 +17,6 @@
 #page{ /*aqui estou chamando as váriaveis q colocquei no root*/
     background-color: var(--laranja) !important; /*o !important prioriza o codigo q vai sobrescrever*/
     color: var(--preto);
-    color: var(--azul);
+    color: var(--rosa);
 }
 
